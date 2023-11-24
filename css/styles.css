@@ -1,0 +1,28 @@
+.header {
+    background-color: white;
+}
+
+.jjk.gojo.webp {
+    width: 100px;
+    height: 100px;
+}
+
+.team {
+    padding-top: 94px;
+    background-color: #F5F4FA;
+    padding: 94px 0 ;
+}
+
+
+.geolocation {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.71; /* 171.429% */
+    letter-spacing: 0.42px;
+    margin-top: 20px;
+    margin-bottom: 9px;
+}
+
